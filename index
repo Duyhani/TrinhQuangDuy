@@ -1,0 +1,143 @@
+<html lang="en"></html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <meta name="viewport" content="whith, initial-scale=1.0">
+        <title> Duy </title>
+        <link rel="stylesheet" href="style7.css">
+    </head>
+    <body style="background-color: rgb(224, 180, 194);">
+        <div class="wrapper">
+            <div class="header">
+                <div class="container">
+                    <div class="logo"> 
+                        <img class="box-1" src="img/hihi.png">
+                    </div>
+                    <div class="menu">
+                        <ul>
+                            <li><a href="">HOME</a></li>
+                            <li><a href="">REVIEW US PRODUCTS</a></li>
+                            <li><a href="">PRODUCT</a></li>
+                            <li><a href="">USER MANUAL</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!--header-->
+            <div class="main">
+                <div class="banner">
+                    <div class="container">
+                        <h1 style="color:white ;"> Welcome to Gangster Cheap Genuine Vape Shop in HCM Opening hours: 08:30–22:00</h1>
+                    </div>
+                </div>
+                <div class="about">
+                    <div class="container">
+                        <div class="feature-img"> <img class="box-3" src="img/3.jpg"> </div>
+                        <div class="content-about">
+                            <h1 style="color: white; font-size: 25px;">
+                                Is one of the brands from Vietnam specializing in providing vape, pod, juice and vape related accessories. In addition, the title Gangters Vape wants to open is because of monitoring the amount of people smoking.
+                            </h1>
+                        </div>
+                    </div>
+                </div>
+                <!--about-->
+                <div class="blog">
+                    <div class="container">
+                        <h2 style="color: white;">Hot Selling Products</h2>
+                        <div class="box-container">
+                            <div class="box">
+                                <div class="sph">
+                                    <img src="img/vape1.jpg">
+                                </div>
+                                <h3>1. Vape Obs Skye</h3>
+                                <p>Specifications
+                                        Compact design, comes with 2 oil reservoirs
+                                        Oil tank capacity 4ml
+                                        Uses built-in battery
+                                        Output Smoke Power: 5-40W
+                                        Resistance range: 0.17 – 1.0ohm.
+                                        Fast Charger Tyce C
+                                        The product set includes:
+                                        1 Vape Obs Skye
+                                        2 Vape Obs Skye Pods 4ml                                   
+                                        5 occ burning error 0.4ohm-1.0ohm G.Coil Boost
+                                        UBS Tyce Cable C
+                                        User manual</p>
+                            </div>
+                            <!--box-->
+                            <div class="box">
+                                <div class="sph">
+                                    <img src="img/vape3.jpeg">
+                                </div>
+                                <h3>2. Vape Veego 80w Nevoks</h3>
+                                <p>Specifications
+                                    Output power: 5-80W (the higher the number of Watts, the more smoke will taste)                                                                 
+                                    Using new generation Mesh Coil technology (for the best flavor and smoke)                                                                                                                                          
+                                    Pod head capacity: 3.5ml (used all day) Dimensions: 49.0 x 23.3 x 90.5mm
+                                    Use battery: 18650 only
+                                    1 Veego 80w . vape device                                                                    
+                                    1 filament SPL-12 Mesh Coil 0.3Ω</p>                                                       
+                            </div>
+                            <!--box-->
+                            <div class="box">
+                                <div class="sph">
+                                    <img src="img/vape4.jpg">
+                                </div>
+                                <h3>3. Geek Vape Aegis Boost Luxury 40w</h3>
+                                <p>Specifications
+                                    Maximum output power: 100W
+                                    Output mode: Custom
+                                    Material: aluminum zinc alloy + silicone
+                                    Dimensions – 114.2mm x 49.5mm x 28.6mm
+                                    Uses built-in battery
+                                    In the box include:
+                                    1 Pod head holds essential oils up to 5.5ml1 Scroll Tool
+                                    1 User Manual</p>     
+                            </div>
+                         </div>
+                    </div>
+                 </div>
+                </div>
+            </div>
+            <div class="top-1">
+                <p>
+                    Conclude :
+                    Hopefully with the above knowledge, the above products help you choose your favorite vape model.
+                    
+                    Please rate the cheap vape shop through Vape Video here
+                    Is vaping right for everyone?
+                    
+                    Businessmen, office workers, teachers, workers or students will suit a simple but modern style but no less luxurious and elegant.
+                </p>
+                <br>
+                <P>
+                    This vape for the latest technology experience, the safest, never explodes, this vape is very mouth-watering and attractive to the opposite sex, relaxes quickly and effectively, masters the clouds fast best, affirming your self-worth better, and especially saving decades of life when smoking traditional cigarettes.
+
+                    Compact design suitable for everyone, for a lot of smoke and rich taste, and especially the big Vape brand in the world will guarantee a Vape life of 3 years or more.
+                    
+                    Compact pocket vape ensures easy follow-up anywhere, simple button and display design is easiest to control, confident to master the fastest vape.
+                    
+                    This vape is the best traditional smoking cessation solution for you
+                    
+                    Vape smoke is safer and cleaner than 95% of traditional cigarette smoke.
+                </P>
+                <br>
+                <p>
+                    Buy goods at home and collect money on delivery:
+
+                    Ho Chi Minh City: fast delivery in 30 minutes to 2 hours ( 0868686868 Zalo or A Lo )
+
+                    Other locations: fast delivery from 1 day to 4 days
+                </p>
+
+            </div>
+            <!--main-->
+            <div class="footer">
+                <div style="color: white;">
+                    <p>Shop Vape very welcomes readers to send messages</p>
+                    <p>Believe and give us suggestions! Email: gangstervape@gmail.com</p>
+                </div>
+                <p style="color: white;"> Gangster Vape 2021 </p>
+            </div>
+        </div>
+    </body>

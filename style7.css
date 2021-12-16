@@ -1,0 +1,113 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1000px;
+    margin: 0 auto;
+}
+.header{
+    background-color: slategrey;
+    padding: 30px 0;
+}
+.logo{
+    width: 29%;
+    display: inline-block;
+    vertical-align: middle;
+}
+.menu{
+    width: 70%;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+.menu ul{
+    list-style: none;
+    text-align: right;
+}
+.menu li{
+    display: inline-block;
+    margin: 0 20px;
+
+}
+.box-1{
+    width: 40%;
+}
+.menu li a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+.banner h1{
+    padding: 100px 0px;
+    background-color:lightblue;
+    text-align: center;
+    padding: 30px 0px;
+    margin: 30px 0px;
+    border-radius: 10px;
+}
+.about{
+    padding: 60px 0px;
+    background-color:slategrey;
+}
+.feature-img{
+    width: 50%;
+    height: 295px;
+    background:white;
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 20px;
+}
+.content-about{
+    width: 49%;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 30px;
+}
+.box-3{
+    width: 100%;
+    height: 295px;
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 10px;
+}
+.blog{
+    padding: 100px 0px;
+}
+.blog h2{
+    text-align: center;
+    margin: 0 32px 20px;
+}
+.box{
+    width: 32%;
+    background-color:whitesmoke;
+    padding: 12px;
+    display: inline-block;
+    margin-left: 10px;
+    
+  
+}
+.sph{
+    height: 350px;
+    overflow: hidden;
+}
+.sph img{
+    height: 100%;
+}
+.box-container h3{
+    margin: 10px 0px;
+}
+.footer p{
+    text-align: center;
+    margin: 25px 0px;
+    padding: 10px 0px;
+}
+
+.footer{
+    background-color:slategrey ;
+}
+.top-1{ 
+   color: white;
+    font-size: 24px;
+    margin: 0px 20px;
+}
